@@ -1,0 +1,27 @@
+{
+  "name": "typedoc-scalefast-theme",
+  "version": "1.0.0",
+  "description": "Typedoc documentation application theme customized for Scalefast company.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scalefast/typedoc-scalefast-theme.git"
+  },
+  "keywords": [
+    "typescript",
+    "typedoc",
+    "generator",
+    "docs",
+    "documentation",
+    "typedoc-theme"
+  ],
+  "author": "Ana Arriaga Coll",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Scalefast/typedoc-scalefast-theme/issues"
+  },
+  "homepage": "https://github.com/Scalefast/typedoc-scalefast-theme#readme"
+}
