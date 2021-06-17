@@ -23,5 +23,12 @@
   "bugs": {
     "url": "https://github.com/Scalefast/typedoc-scalefast-theme/issues"
   },
-  "homepage": "https://github.com/Scalefast/typedoc-scalefast-theme#readme"
+  "homepage": "https://github.com/Scalefast/typedoc-scalefast-theme#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.15.2",
+    "@typescript-eslint/parser": "^4.15.2",
+    "eslint": "^7.21.0",
+    "eslint-plugin-jest": "^24.1.5",
+    "typescript": "^4.2.2"
+  }
 }

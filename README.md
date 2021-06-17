@@ -1,5 +1,5 @@
 ## Scalefast Theme for TypeDoc
-Typedoc documentation application theme customized for Scalefast company.
+TypeDoc documentation application theme customized for Scalefast company.
 
 ## Install
 ```
