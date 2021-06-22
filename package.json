@@ -1,6 +1,6 @@
 {
   "name": "typedoc-scalefast-theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A custom scalefast typedoc theme",
   "main": "index.js",
   "scripts": {
