@@ -20,6 +20,8 @@ Or add the subject in the `typedoc.json` file.
 
 ## Dependencies
 * typedoc
+* typescript
+* typedoc-plugin-extras
 * typedoc-plugin-pages
 * @types/lunr
 
